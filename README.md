@@ -1,8 +1,5 @@
-# 📚 GoFundamentals - Fundamentos da Linguagem Go
+# 📚 Fundamentos da Linguagem Go
 
-**Repositório de estudos baseado no curso [Aprenda Golang do Zero](https://www.udemy.com/course/aprenda-golang-do-zero-desenvolva-uma-aplicacao-completa/) da Udemy**
-
-## 🎯 Objetivo
 Este é um repositório de estudos onde registro meu aprendizado dos conhecimentos fundamentais da linguagem Go, com exemplos práticos e código comentado.
 
 ## 📖 Assuntos Estudados
