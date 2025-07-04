@@ -9,6 +9,8 @@ Este é um repositório de estudos onde registro meu aprendizado dos conheciment
 - **Tipos de Dados** (`3_tipos/`)
 - **Funções** (`4_funcoes/`)
 - **Operadores** (`5_operadores`)
+- **Strcts** (`6_structs`)
+- **Herança** (`7_heranca`)
 
 ## 🚀 Como Executar
 
