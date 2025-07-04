@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"errors"
+	"fmt"
+)
 
 func main() {
 
@@ -67,10 +70,12 @@ func main() {
 
 	//		ERROS (valor inicial é nil)
 
-	var erro error = nil // Declaração de variável do tipo error (representa um erro)
+	var erro error = errors.New("Erro de exemplo") // Declaração de variável do tipo erro (interface que representa um erro)
 	if erro != nil {
 		fmt.Println("Erro:", erro)
 	} else {
 		fmt.Println("Sem erros")
 	}
+
+	// erro não é um tipo primitivo, mas é uma interface que pode ser implementada por outros tipos
 }

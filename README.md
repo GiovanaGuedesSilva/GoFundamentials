@@ -7,6 +7,8 @@ Este é um repositório de estudos onde registro meu aprendizado dos conheciment
 - **Pacotes** (`1_pacotes/`)
 - **Variáveis** (`2_variaveis/`)
 - **Tipos de Dados** (`3_tipos/`)
+- **Funções** (`4_funcoes/`)
+- **Operadores** (`5_operadores`)
 
 ## 🚀 Como Executar
 
