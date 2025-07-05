@@ -23,6 +23,8 @@ func main() {
 	// enquanto os segundos e quartos valores são descartados com o uso de _ (underscore).
 	fmt.Println("Resultados dos cálculos:", r1, r2, r3, r4)
 	fmt.Println("Resultados dos cálculos novamente:", r1_, r3_)
+
+	
 }
 
 func somar(a, b int) int {

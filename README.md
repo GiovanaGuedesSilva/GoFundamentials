@@ -11,6 +11,8 @@ Este é um repositório de estudos onde registro meu aprendizado dos conheciment
 - **Operadores** (`5_operadores`)
 - **Strcts** (`6_structs`)
 - **Herança** (`7_heranca`)
+- **Arrays e Slices** (`8_arrays-e-slices`)
+- **Ponteiros** (`9_ponteiros`)
 
 ## 🚀 Como Executar
 
