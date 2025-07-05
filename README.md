@@ -13,6 +13,7 @@ Este é um repositório de estudos onde registro meu aprendizado dos conheciment
 - **Herança** (`7_heranca`)
 - **Arrays e Slices** (`8_arrays-e-slices`)
 - **Ponteiros** (`9_ponteiros`)
+- **Maps** (``10_maps`)
 
 ## 🚀 Como Executar
 
