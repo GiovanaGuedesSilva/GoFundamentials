@@ -31,6 +31,9 @@ Este é um repositório de estudos onde registro meu aprendizado dos conheciment
 - **Concorrência** (`18_concorrencia`)
 - **Go Routines**(`18.1_goroutines`)
 - **Wait Group**(`18.2_waitgroup`)
+- **Canais**(`18.33_canais`)
+- **Canais Com Buffer**(`18.4_canais-com-buffer`)
+- **Select**(`18.5_select`)
 
 ## 🚀 Como Executar
 
