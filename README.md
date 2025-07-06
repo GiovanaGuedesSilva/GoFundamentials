@@ -31,9 +31,12 @@ Este é um repositório de estudos onde registro meu aprendizado dos conheciment
 - **Concorrência** (`18_concorrencia`)
 - **Go Routines**(`18.1_goroutines`)
 - **Wait Group**(`18.2_waitgroup`)
-- **Canais**(`18.33_canais`)
+- **Canais**(`18.3_canais`)
 - **Canais Com Buffer**(`18.4_canais-com-buffer`)
 - **Select**(`18.5_select`)
+- **Padrões de Concorrência**(`18.6_padroes-de-concorrencia`)
+- **Worker Pools**(`18.6.1_worker-pools`)
+- **Generator**(`18.6.2_generator`)
 
 ## 🚀 Como Executar
 
