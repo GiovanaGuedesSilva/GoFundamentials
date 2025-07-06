@@ -37,6 +37,7 @@ Este é um repositório de estudos onde registro meu aprendizado dos conheciment
 - **Padrões de Concorrência**(`18.6_padroes-de-concorrencia`)
 - **Worker Pools**(`18.6.1_worker-pools`)
 - **Generator**(`18.6.2_generator`)
+- **Multiplexador**(`18.6.3_multiplexador`)
 
 ## 🚀 Como Executar
 
