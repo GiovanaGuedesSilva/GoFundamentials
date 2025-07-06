@@ -27,7 +27,10 @@ Este é um repositório de estudos onde registro meu aprendizado dos conheciment
 - **Panic e Recover** (`14_panic-e-recover`) 
 - **Methods** (`15_methods`)
 - **Interfaces** (`16_interfaces`)
-- **Interfaces Como Tipo Genérico** (`15_interfaces-como-tipo-generico`) 
+- **Interfaces Como Tipo Genérico** (`17_interfaces-como-tipo-generico`) 
+- **Concorrência** (`18_concorrencia`)
+- **Go Routines**(`18.1_goroutines`)
+- **Wait Group**(`18.2_waitgroup`)
 
 ## 🚀 Como Executar
 
