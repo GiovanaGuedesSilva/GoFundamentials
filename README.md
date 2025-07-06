@@ -9,17 +9,9 @@ Este é um repositório de estudos onde registro meu aprendizado dos conheciment
 - **Tipos de Dados** (`3_tipos/`)
 - **Funções** (`4_funcoes/`)
 - **Operadores** (`5_operadores`)
-- **Structs** (`6_structs`)
+- **Strcts** (`6_structs`)
 - **Herança** (`7_heranca`)
 - **Arrays e Slices** (`8_arrays-e-slices`)
-- **Ponteiros** (`9_ponteiros`)
-- **Maps** (`10_maps`)
-- **Estruturas de Controle** (`11_estruturas-de-controle`)
-- **Funções Avançadas** (`12_funcoes-avancado`)
-- **Funções Com Retorno Nomeado** (`12.1_com-retorno-nomeado`)
-- **Funções Variáticas** (`12.2_variaticas`)
-- **Funções Anônimas** (`12.3_anonimas`)
-- **Funções Recursivas** (`12.4_recursivas`)
 
 ## 🚀 Como Executar
 
