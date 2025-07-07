@@ -40,6 +40,7 @@ Este é um repositório de estudos onde registro meu aprendizado dos conheciment
 - **Multiplexador**(`18.6.3_multiplexador`)
 - **Testes Automatizados**(`19_testes-automatizados`)
 - **Introdução aos Testes**(`19.1_introducao`)
+- **Testes Avançados**(`19.2_avancado`)
 
 ## 🚀 Como Executar
 
