@@ -41,6 +41,7 @@ Este é um repositório de estudos onde registro meu aprendizado dos conheciment
 - **Testes Automatizados**(`19_testes-automatizados`)
 - **Introdução aos Testes**(`19.1_introducao`)
 - **Testes Avançados**(`19.2_avancado`)
+- **JSON**(`10_json`)
 
 ## 🚀 Como Executar
 
